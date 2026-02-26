@@ -30,7 +30,7 @@ Uygulama, modern mobil geliştirme standartlarına uygun olarak modüler bir yap
 ## 📸 Uygulama Önizlemesi
 | Ana Ekran | Hava Durumu Detay | AI Planlayıcı |Şehir Detay Ekranı |
 | :---: | :---: | :---: | :---: |
-| ![Ekran Görüntüsü 1](./resimler/anasayfa.png) | ![Ekran Görüntüsü 2](./resimler/havadurumu.png) | ![Ekran Görüntüsü 3](./resimler/yapayzekaseyahatplanı.png) | ![Ekran Görüntüsü 2](./resimler/şehirdetayekrani.png) |
+| ![Ekran Görüntüsü 1](./resimler/anasayfa.png) | ![Ekran Görüntüsü 2](./resimler/havadurumu.png) | ![Ekran Görüntüsü 3](./resimler/yapayzekaseyahatplani.png) | ![Ekran Görüntüsü 4](./resimler/şehirdetayekrani.png) |
 
 ## ⚙️ Kurulum ve Çalıştırma
 
